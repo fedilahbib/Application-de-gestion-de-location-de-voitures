@@ -3,6 +3,9 @@ Une application multi-documents est une application pouvant avoir plusieurs fen√
 ![alt text](https://img-19.ccm2.net/TRqWln861PUll7eZ3H_y3ZsPgnA=/be42393d46f8476f8878f5d9c6b6700f/ccm-faq/8FDqxmAR-jdesktoppane-s-.png)
 
 ### Les technologies utilis√©es : java , swing(JDesktopPane,JInternalFrame,...) ,MySQL
+
+
+# Les interfaces graphiques
  ![alt text](interface.png)
 
  
